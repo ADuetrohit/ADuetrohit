@@ -36,11 +36,25 @@ board_t rohit = {
 
 <div align="center">
 
-| 🔩 **5** | 📐 **6-layer** | ⚡ **6-in-1** | 🎯 **50 Ω / 90 Ω** | 🏅 **2×** |
+| 🔩 **5** | 📐 **6-layer** | ⚡ **6-in-1** | 🎯 **50 Ω / 90 Ω** | 🏅 **IIT BHU** |
 |:--:|:--:|:--:|:--:|:--:|
-| custom boards designed | deepest stackup | biopotential sensor | controlled impedance | IIT-fest recognitions |
+| custom boards designed | deepest stackup | biopotential sensor | controlled impedance | Technex 2026 recognition |
 
 </div>
+
+## ⚙️ From Schematic to Bring-Up
+
+> I own the whole chain — the board *and* the firmware on it.
+
+```mermaid
+%%{init: {'theme':'base','themeVariables':{'primaryColor':'#12324c','primaryTextColor':'#eaf6f4','primaryBorderColor':'#2f6b8a','lineColor':'#5fd3c4','fontFamily':'monospace','fontSize':'14px'}}}%%
+flowchart LR
+    A([ Schematic ]) --> B([ PCB Layout ])
+    B --> C([ Controlled-Z<br/>+ DFM rules ])
+    C --> D([ Fabrication ])
+    D --> E([ Bring-up ])
+    E --> F([ Embedded C<br/>firmware ])
+```
 
 ## 🛠️ Tech Arsenal
 
@@ -100,7 +114,7 @@ board_t rohit = {
 
 ## 🏆 Achievements & Roles
 
-- 🥇 **Hardware showcase** — recognition at Technex 2026 (IIT BHU) · special mention at Techfest 2026 (IIT Bombay)
+- 🥇 **Recognition (Hardware category)** — Technex 2026, IIT (BHU) Varanasi, for the AERIS project
 - 🏅 **Circuit Mania Winner ×2** (JDCOEM, 2025 & 2026) · 2nd Place, Circuit Competition (TGPCET)
 - 👥 **Technical Head**, e-Yantra Robotics Club
 - 📜 Firmware Engineering — L&T EduTech
