@@ -9,7 +9,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ADuetrohit&color=2f6b8a&style=for-the-badge&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-nalbuga)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitnalbuga2@gmail.com)
-![Location](https://img.shields.io/badge/Nagpur,%20India-2f6b8a?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Location](https://img.shields.io/badge/Bengaluru,%20India-2f6b8a?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br/><br/>
 
@@ -65,7 +65,7 @@ flowchart LR
 | Domain | Stack |
 |:--|:--|
 | **PCB & EDA** | ![Altium](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white) ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white) |
-| **MCUs** | ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![Nordic](https://img.shields.io/badge/nRF5340-00A9CE?style=for-the-badge) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![PIC18](https://img.shields.io/badge/PIC18-EE1C25?style=for-the-badge) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
+| **MCUs & Silicon** | ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![Nordic](https://img.shields.io/badge/nRF5340-00A9CE?style=for-the-badge) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) ![Analog Devices](https://img.shields.io/badge/Analog%20Devices-00539B?style=for-the-badge) ![Renesas](https://img.shields.io/badge/Renesas-1A1A8C?style=for-the-badge) ![NXP](https://img.shields.io/badge/NXP-0A7E8C?style=for-the-badge) |
 | **Firmware** | ![Embedded C](https://img.shields.io/badge/Embedded%20C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![I2C/SPI/UART](https://img.shields.io/badge/I²C%20·%20SPI%20·%20UART-444?style=for-the-badge) |
 | **Signal & RF** | ![Controlled Impedance](https://img.shields.io/badge/Controlled%20Impedance-2F4A6B?style=for-the-badge) ![RF](https://img.shields.io/badge/RF%20·%20Microwave-6B2F4A?style=for-the-badge) |
 
