@@ -41,9 +41,9 @@
 
   <!-- labels -->
   <g font-family="'Consolas','SFMono-Regular',monospace" fill="#6fd8c8">
-    <text x="30" y="36" font-size="15" font-weight="700" letter-spacing="1.5">6-IN-1 EXG SENSOR</text>
-    <text x="970" y="36" font-size="13" text-anchor="end" letter-spacing="1" opacity="0.85">CH1 · ECG · 1&#8202;mV/div · 200&#8202;ms/div</text>
-    <text x="970" y="228" font-size="12" text-anchor="end" letter-spacing="1" opacity="0.6">ECG · EMG · EOG · EEG · EGG · ENG</text>
+    <text x="30" y="36" font-size="15" font-weight="700" letter-spacing="1.5">HARDWARE · SIGNAL BENCH</text>
+    <text x="970" y="36" font-size="13" text-anchor="end" letter-spacing="1" opacity="0.85">CH1 · 1&#8202;mV/div · 200&#8202;ms/div</text>
+    <text x="970" y="228" font-size="12" text-anchor="end" letter-spacing="1" opacity="0.6">PCB · FIRMWARE · RF · BIOMEDICAL · ROBOTICS</text>
   </g>
   <g font-family="'Consolas',monospace">
     <circle cx="34" cy="222" r="5" fill="#ff5d6c"><animate attributeName="opacity" values="1;0.15;1" dur="1.4s" repeatCount="indefinite"/></circle>

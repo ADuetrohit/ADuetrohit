@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<img src="./assets/scope.svg" width="100%" alt="Live ECG waveform — 6-in-1 EXG biopotential sensor"/>
+<img src="./assets/scope.svg" width="100%" alt="Hardware signal bench — live oscilloscope"/>
 
 </div>
 
@@ -71,48 +71,64 @@ flowchart LR
 
 <img src="./assets/divider.svg" width="100%" alt="———"/>
 
-## 🔬 Featured Boards
+## 🔬 Projects
 
-> ⚠️ Most design files are private (in development / client work). Happy to walk through any board on request.
+> ⚠️ Most design files are private (in development / client work). Happy to walk through any on request.
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🎯 Chordy** — controlled-impedance board<br/>
-<sub>*ESP32-S3 · 4-layer · Altium*</sub>
-
-- 50 Ω CPWG / 90 Ω USB differential, DFM-checked to fab capability spec
-- Authored the full net-class design-rule set
+**◆ Chordy** — controlled-impedance ESP32-S3 board<br/>
+<sub>*4-layer · Altium · 50 Ω CPWG / 90 Ω USB, DFM to fab spec*</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**🎯 VELA** — behind-ear sleep-tracking wearable<br/>
-<sub>*nRF5340 · 6-layer puck + 4-layer case · Altium*</sub>
-
-- Optical PPG + bio-impedance front-ends, PMIC-managed power tree
-- RF feed to a chip antenna *(in development)*
+**◆ VELA** — behind-ear sleep-tracking wearable<br/>
+<sub>*nRF5340 · 6-layer puck + 4-layer case · optical PPG + bio-impedance*</sub>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🎯 6-in-1 EXG Biopotential Sensor**<br/>
-<sub>*TI TL074 · 2-layer · Altium*</sub>
-
-- One instrumentation front-end acquires ECG / EMG / EOG / EEG / EGG / ENG
-- Extended from the open-source Upside Down Labs BioAmp
+**◆ 6-in-1 EXG** — biopotential sensor<br/>
+<sub>*TI TL074 · 2-layer · one front-end → ECG/EMG/EOG/EEG/EGG/ENG*</sub>
 
 </td>
 <td width="50%" valign="top">
 
-**🎯 VEERA** — multi-sensor IoT & robotics board<br/>
-<sub>*ESP32-WROOM-32 + Arduino UNO · 2-layer · Altium*</sub>
+**◆ VEERA** — multi-sensor IoT & robotics board<br/>
+<sub>*ESP32 + Arduino UNO · 2-layer · dual motor drivers · 15+ peripherals*</sub>
 
-- Dual motor drivers + stepper, IMU, 15+ onboard peripherals
-- Owned schematic, layout, and firmware
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**◆ KARA_V1** — dual-MCU development board<br/>
+<sub>*STM32 + ESP · 4-layer · Altium*</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**◆ AERIS** — air-quality monitor<br/>
+<sub>*ESP32 · MQ sensors, calibration + filtering · Technex 2026 (IIT BHU) recognition*</sub>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**◆ High-Speed Line Follower** — PID robot<br/>
+<sub>*sensor-array line tracking · Technoxian World Cup*</sub>
+
+</td>
+<td width="50%" valign="top">
+
+**◆ Internship builds** — Karmic Nexus<br/>
+<sub>*PIC18F47K42 dev board · VC02 smart-farming · EV↔petrol switching circuit*</sub>
 
 </td>
 </tr>
