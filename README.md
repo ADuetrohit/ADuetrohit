@@ -1,70 +1,117 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:1b3a5c,100:2f6b8a&text=Rohit%20R.%20Nalbuga&fontColor=ffffff&fontSize=44&fontAlignY=36&desc=PCB%20%26%20Embedded%20Systems%20Designer&descAlignY=58&descSize=18" width="100%" alt="header"/>
+<img src="./assets/header.svg" width="100%" alt="Rohit R. Nalbuga — PCB, Embedded & RF Designer"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&width=650&color=2F6B8A&lines=Multi-layer%2C+controlled-impedance+boards+in+Altium;Embedded+C+on+STM32%2C+nRF5340%2C+ESP32;One+front-end%2C+six+biopotentials;Self-studying+RF+%26+antenna+design)](https://git.io/typing-svg)
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=ADuetrohit&color=2f4a6b&style=for-the-badge&label=PROFILE+VIEWS)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&center=true&width=680&color=2F9BB3&lines=Schematic+to+fabrication-ready+in+Altium;Multi-layer%2C+controlled-impedance+PCB+design;Embedded+C+on+STM32%2C+nRF5340%2C+ESP32;One+front-end%2C+six+biopotentials;Self-studying+RF+%26+antenna+design)](https://git.io/typing-svg)
+
+![Profile Views](https://komarev.com/ghpvc/?username=ADuetrohit&color=2f6b8a&style=for-the-badge&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-nalbuga)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitnalbuga2@gmail.com)
+![Location](https://img.shields.io/badge/Nagpur,%20India-2f6b8a?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 </div>
 
 ---
 
 ## 🚀 About Me
-- 🎓 B.Tech in Electronics & Telecommunication Engineering (expected **2027**) — JD College of Engineering & Management, Nagpur
-- 🔩 I take PCBs from **schematic to fabrication-ready in Altium** — 2-to-6-layer, controlled-impedance boards across **RF, biomedical, and robotics** — and write the **Embedded C** firmware that runs on them
-- 🏆 Boards recognized at **IIT (BHU) Varanasi Technex 2026** and **IIT Bombay Techfest 2026**
+
+```c
+board_t rohit = {
+    .role      = "PCB & Embedded Systems Designer",
+    .degree    = "B.Tech ExTC, expected 2027",
+    .does      = "schematic -> layout -> firmware, one hand off",
+    .domains   = { "RF", "biomedical", "robotics" },
+    .learning  = "antenna & RF/microwave design",
+};
+```
+
+- 🔩 I take PCBs from **schematic to fabrication-ready in Altium** — 2-to-6-layer, controlled-impedance boards — and write the **Embedded C** firmware that runs on them
+- 🏆 My boards have been recognized at **IIT (BHU) Varanasi Technex 2026** and **IIT Bombay Techfest 2026**
 - 🔭 Currently building a **behind-ear biosensing wearable** and a **6-in-1 biopotential sensor**
-- 🌱 Self-studying **antenna & RF/microwave design**
+- 💬 Ask me about **PCB stackups, controlled impedance, or biopotential front-ends**
 
-## 🛠️ Tech Stack
+## ⚡ By the Numbers
 
-**PCB & EDA** &nbsp;
-![Altium](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white)
-![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white)
+<div align="center">
 
-**MCUs & Hardware** &nbsp;
-![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
-![Nordic](https://img.shields.io/badge/Nordic%20nRF5340-00A9CE?style=for-the-badge)
-![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![PIC18](https://img.shields.io/badge/PIC18-EE1C25?style=for-the-badge)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+| 🔩 **5** | 📐 **6-layer** | ⚡ **6-in-1** | 🎯 **50 Ω / 90 Ω** | 🏅 **2×** |
+|:--:|:--:|:--:|:--:|:--:|
+| custom boards designed | deepest stackup | biopotential sensor | controlled impedance | IIT-fest recognitions |
 
-**Firmware & Signal** &nbsp;
-![Embedded C](https://img.shields.io/badge/Embedded%20C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Controlled Impedance](https://img.shields.io/badge/Controlled%20Impedance-2F4A6B?style=for-the-badge)
-![RF / Microwave](https://img.shields.io/badge/RF%20%2F%20Microwave-6B2F4A?style=for-the-badge)
+</div>
 
-## 💡 Featured Boards
+## 🛠️ Tech Arsenal
+
+| Domain | Stack |
+|:--|:--|
+| **PCB & EDA** | ![Altium](https://img.shields.io/badge/Altium%20Designer-A5915F?style=for-the-badge&logo=altiumdesigner&logoColor=white) ![KiCad](https://img.shields.io/badge/KiCad-314CB0?style=for-the-badge&logo=kicad&logoColor=white) |
+| **MCUs** | ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![Nordic](https://img.shields.io/badge/nRF5340-00A9CE?style=for-the-badge) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![PIC18](https://img.shields.io/badge/PIC18-EE1C25?style=for-the-badge) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
+| **Firmware** | ![Embedded C](https://img.shields.io/badge/Embedded%20C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![I2C/SPI/UART](https://img.shields.io/badge/I²C%20·%20SPI%20·%20UART-444?style=for-the-badge) |
+| **Signal & RF** | ![Controlled Impedance](https://img.shields.io/badge/Controlled%20Impedance-2F4A6B?style=for-the-badge) ![RF](https://img.shields.io/badge/RF%20·%20Microwave-6B2F4A?style=for-the-badge) |
+
+## 🔬 Featured Boards
+
 > ⚠️ Most design files are private (in development / client work). Happy to walk through any board on request.
 
-🎯 **Chordy** — controlled-impedance ESP32-S3 board &nbsp; · &nbsp; *ESP32-S3 · 4-layer · Altium*
-- 50 Ω CPWG / 90 Ω USB differential routing, DFM-checked to fab capability spec
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**🎯 Chordy** — controlled-impedance board<br/>
+<sub>*ESP32-S3 · 4-layer · Altium*</sub>
+
+- 50 Ω CPWG / 90 Ω USB differential, DFM-checked to fab capability spec
 - Authored the full net-class design-rule set
 
-🎯 **VELA** — behind-ear sleep-tracking wearable &nbsp; · &nbsp; *nRF5340 · 6-layer puck + 4-layer case · Altium*
-- Optical PPG + bio-impedance analog front-ends, PMIC-managed power tree
-- RF feed to a chip antenna (in development)
+</td>
+<td width="50%" valign="top">
 
-🎯 **6-in-1 EXG Biopotential Sensor** — one front-end, six signals &nbsp; · &nbsp; *TI TL074 · 2-layer · Altium*
-- Acquires ECG / EMG / EOG / EEG / EGG / ENG from a single instrumentation front-end
+**🎯 VELA** — behind-ear sleep-tracking wearable<br/>
+<sub>*nRF5340 · 6-layer puck + 4-layer case · Altium*</sub>
+
+- Optical PPG + bio-impedance front-ends, PMIC-managed power tree
+- RF feed to a chip antenna *(in development)*
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**🎯 6-in-1 EXG Biopotential Sensor**<br/>
+<sub>*TI TL074 · 2-layer · Altium*</sub>
+
+- One instrumentation front-end acquires ECG / EMG / EOG / EEG / EGG / ENG
 - Extended from the open-source Upside Down Labs BioAmp
 
-🎯 **VEERA** — multi-sensor IoT & robotics dev board &nbsp; · &nbsp; *ESP32-WROOM-32 + Arduino UNO · 2-layer · Altium*
-- Dual motor drivers + stepper, MPU6050 IMU, and 15+ onboard peripherals
+</td>
+<td width="50%" valign="top">
+
+**🎯 VEERA** — multi-sensor IoT & robotics board<br/>
+<sub>*ESP32-WROOM-32 + Arduino UNO · 2-layer · Altium*</sub>
+
+- Dual motor drivers + stepper, IMU, 15+ onboard peripherals
 - Owned schematic, layout, and firmware
 
+</td>
+</tr>
+</table>
+
 ## 🏆 Achievements & Roles
+
 - 🥇 **Hardware showcase** — recognition at Technex 2026 (IIT BHU) · special mention at Techfest 2026 (IIT Bombay)
 - 🏅 **Circuit Mania Winner ×2** (JDCOEM, 2025 & 2026) · 2nd Place, Circuit Competition (TGPCET)
 - 👥 **Technical Head**, e-Yantra Robotics Club
 - 📜 Firmware Engineering — L&T EduTech
 
+## 📫 Let's Connect
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:2f6b8a,100:1b3a5c&section=footer" width="100%" alt="footer"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-nalbuga)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitnalbuga2@gmail.com)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&color=0:2f6b8a,100:0b2135&section=footer" width="100%" alt="footer"/>
 
 </div>
