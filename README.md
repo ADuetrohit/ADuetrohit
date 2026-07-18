@@ -11,9 +11,13 @@
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rohitnalbuga2@gmail.com)
 ![Location](https://img.shields.io/badge/Nagpur,%20India-2f6b8a?style=for-the-badge&logo=googlemaps&logoColor=white)
 
+<br/><br/>
+
+<img src="./assets/scope.svg" width="100%" alt="Live ECG waveform — 6-in-1 EXG biopotential sensor"/>
+
 </div>
 
----
+<img src="./assets/divider.svg" width="100%" alt="———"/>
 
 ## 🚀 About Me
 
@@ -64,6 +68,8 @@ flowchart LR
 | **MCUs** | ![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white) ![Nordic](https://img.shields.io/badge/nRF5340-00A9CE?style=for-the-badge) ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) ![PIC18](https://img.shields.io/badge/PIC18-EE1C25?style=for-the-badge) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) |
 | **Firmware** | ![Embedded C](https://img.shields.io/badge/Embedded%20C-A8B9CC?style=for-the-badge&logo=c&logoColor=black) ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![I2C/SPI/UART](https://img.shields.io/badge/I²C%20·%20SPI%20·%20UART-444?style=for-the-badge) |
 | **Signal & RF** | ![Controlled Impedance](https://img.shields.io/badge/Controlled%20Impedance-2F4A6B?style=for-the-badge) ![RF](https://img.shields.io/badge/RF%20·%20Microwave-6B2F4A?style=for-the-badge) |
+
+<img src="./assets/divider.svg" width="100%" alt="———"/>
 
 ## 🔬 Featured Boards
 
@@ -118,6 +124,8 @@ flowchart LR
 - 🏅 **Circuit Mania Winner ×2** (JDCOEM, 2025 & 2026) · 2nd Place, Circuit Competition (TGPCET)
 - 👥 **Technical Head**, e-Yantra Robotics Club
 - 📜 Firmware Engineering — L&T EduTech
+
+<img src="./assets/divider.svg" width="100%" alt="———"/>
 
 ## 📫 Let's Connect
 

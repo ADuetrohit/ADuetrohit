@@ -1,0 +1,14 @@
+<svg width="1000" height="22" viewBox="0 0 1000 22" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="divider">
+  <line x1="8" y1="11" x2="468" y2="11" stroke="#2f6b8a" stroke-width="1.6" stroke-linecap="round" opacity="0.65"/>
+  <line x1="532" y1="11" x2="992" y2="11" stroke="#2f6b8a" stroke-width="1.6" stroke-linecap="round" opacity="0.65"/>
+  <rect x="486" y="4" width="28" height="14" rx="2" fill="none" stroke="#5fd3c4" stroke-width="1.4"/>
+  <circle cx="500" cy="11" r="2" fill="#5fd3c4"/>
+  <circle cx="8" cy="11" r="2.6" fill="#5fd3c4">
+    <animate attributeName="cx" from="8" to="468" dur="3.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="992" cy="11" r="2.6" fill="#5fd3c4">
+    <animate attributeName="cx" from="992" to="532" dur="3.2s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;0" dur="3.2s" repeatCount="indefinite"/>
+  </circle>
+</svg>
