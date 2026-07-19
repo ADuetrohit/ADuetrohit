@@ -13,7 +13,7 @@
 
 <br/><br/>
 
-<img src="./assets/scope.svg" width="100%" alt="Hardware signal bench — live oscilloscope"/>
+<img src="./assets/system.svg?v=1" width="100%" alt="Living board — MCU powering up with power, USB, RF and analog blocks"/>
 
 </div>
 
