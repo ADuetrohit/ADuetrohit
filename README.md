@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/header.svg?v=3" width="100%" alt="Rohit R. Nalbuga — PCB, Embedded & RF Designer"/>
+<img src="./assets/header.svg?v=4" width="100%" alt="Rohit R. Nalbuga — PCB, Embedded & RF Designer"/>
 
 <br/>
 
